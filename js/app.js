@@ -9,5 +9,5 @@
             coordsEl.parentElement.classList.remove('invisible');
         });
     }
->>>>>>> 7cf67c9 (Changed files)
+
 
